@@ -1,0 +1,14 @@
+C:\Users\deadr\Documents\MCAST\SCS2024_25_SWD6.3A\HomeAssignment\TwoGirlsFallacy\TwoGirlsFallacy\obj\Debug\net8.0\TwoGirlsFallacy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deadr\Documents\MCAST\SCS2024_25_SWD6.3A\HomeAssignment\TwoGirlsFallacy\TwoGirlsFallacy\obj\Debug\net8.0\TwoGirlsFallacy.AssemblyInfoInputs.cache
+C:\Users\deadr\Documents\MCAST\SCS2024_25_SWD6.3A\HomeAssignment\TwoGirlsFallacy\TwoGirlsFallacy\obj\Debug\net8.0\TwoGirlsFallacy.AssemblyInfo.cs
+C:\Users\deadr\Documents\MCAST\SCS2024_25_SWD6.3A\HomeAssignment\TwoGirlsFallacy\TwoGirlsFallacy\obj\Debug\net8.0\TwoGirlsFallacy.csproj.CoreCompileInputs.cache
+C:\Users\deadr\Documents\MCAST\SCS2024_25_SWD6.3A\HomeAssignment\TwoGirlsFallacy\TwoGirlsFallacy\bin\Debug\net8.0\TwoGirlsFallacy.exe
+C:\Users\deadr\Documents\MCAST\SCS2024_25_SWD6.3A\HomeAssignment\TwoGirlsFallacy\TwoGirlsFallacy\bin\Debug\net8.0\TwoGirlsFallacy.deps.json
+C:\Users\deadr\Documents\MCAST\SCS2024_25_SWD6.3A\HomeAssignment\TwoGirlsFallacy\TwoGirlsFallacy\bin\Debug\net8.0\TwoGirlsFallacy.runtimeconfig.json
+C:\Users\deadr\Documents\MCAST\SCS2024_25_SWD6.3A\HomeAssignment\TwoGirlsFallacy\TwoGirlsFallacy\bin\Debug\net8.0\TwoGirlsFallacy.dll
+C:\Users\deadr\Documents\MCAST\SCS2024_25_SWD6.3A\HomeAssignment\TwoGirlsFallacy\TwoGirlsFallacy\bin\Debug\net8.0\TwoGirlsFallacy.pdb
+C:\Users\deadr\Documents\MCAST\SCS2024_25_SWD6.3A\HomeAssignment\TwoGirlsFallacy\TwoGirlsFallacy\obj\Debug\net8.0\TwoGirlsFallacy.dll
+C:\Users\deadr\Documents\MCAST\SCS2024_25_SWD6.3A\HomeAssignment\TwoGirlsFallacy\TwoGirlsFallacy\obj\Debug\net8.0\refint\TwoGirlsFallacy.dll
+C:\Users\deadr\Documents\MCAST\SCS2024_25_SWD6.3A\HomeAssignment\TwoGirlsFallacy\TwoGirlsFallacy\obj\Debug\net8.0\TwoGirlsFallacy.pdb
+C:\Users\deadr\Documents\MCAST\SCS2024_25_SWD6.3A\HomeAssignment\TwoGirlsFallacy\TwoGirlsFallacy\obj\Debug\net8.0\TwoGirlsFallacy.genruntimeconfig.cache
+C:\Users\deadr\Documents\MCAST\SCS2024_25_SWD6.3A\HomeAssignment\TwoGirlsFallacy\TwoGirlsFallacy\obj\Debug\net8.0\ref\TwoGirlsFallacy.dll
